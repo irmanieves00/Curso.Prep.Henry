@@ -1,0 +1,3 @@
+INFORMACION ACCESO
+token github: autenticacioninfinita
+link: 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
