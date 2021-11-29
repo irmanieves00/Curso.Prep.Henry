@@ -1,3 +1,5 @@
 INFORMACION ACCESO
 token github: autenticacioninfinita
-link: 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
+link: ghp_F4fLltnKlzRdaS07qv1mcbBaoTOEkK1vq
+
+git push https://autenticacioninfinita@github.com/irmanieves00/Curso.Prep.Henry.git
